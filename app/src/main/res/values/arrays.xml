@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="style">
+        <item>NOT_INDICATOR</item>
+        <item>CIRCLE_INDICATOR</item>
+        <item>NUM_INDICATOR</item>
+        <item>NUM_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE_INSIDE</item>
+    </string-array>
+    <string-array name="indicator">
+        <item>LEFT</item>
+        <item>CENTER</item>
+        <item>RIGHT</item>
+    </string-array>
+</resources>
