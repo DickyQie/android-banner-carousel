@@ -53,5 +53,3 @@
     *;
  }</code></pre> 
 <p>更多相关属性请看：&nbsp;https://github.com/youth5201314/banner</p> 
-<span id="OSC_h3_1"></span>
-
