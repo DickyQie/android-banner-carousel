@@ -1,5 +1,5 @@
 ### Android-----------广告图片轮播控件 
-  <p>&nbsp;Banner广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！</p> 
+<p>&nbsp;Banner广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！</p> 
 <p>很多Android APP中都有广告栏，我也用过很多次了，特来写一篇博文。</p> 
 <p>先来看看效果图：</p> 
 <p>&nbsp;&nbsp;&nbsp;&nbsp; <img alt="" height="613" src="http://images2017.cnblogs.com/blog/1041439/201712/1041439-20171222163425303-2057946364.gif" width="436"></p> 
@@ -54,4 +54,4 @@
  }</code></pre> 
 <p>更多相关属性请看：&nbsp;https://github.com/youth5201314/banner</p> 
 <span id="OSC_h3_1"></span>
-<h3>&nbsp;</h3> 
+
